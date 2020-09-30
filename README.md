@@ -4,7 +4,7 @@
 
 <!DOCTYPE html>
 <html>
-
+<head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Page Title</title>
@@ -13,7 +13,8 @@
     <!-- <script src='main.js'></script> -->
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 
-</header>
+</head>
+
 <body>
     <!-- header start -->
     <header class="text-gray-500 bg-gray-900 body-font">
